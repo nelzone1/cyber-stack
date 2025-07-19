@@ -1,0 +1,15 @@
+<configuration>
+  <api>
+    <key></key>
+    <enabled>true</enabled>
+    <address>0.0.0.0</address>
+    <port>8090</port>
+    <addrs>
+      <addr>127.0.0.1</addr>
+      <addr>localhost</addr>
+      <addr>0.0.0.0</addr>
+      <addr>192.168.1.0/24</addr>
+    </addrs>
+    <disablekey>true</disablekey>
+  </api>
+</configuration>

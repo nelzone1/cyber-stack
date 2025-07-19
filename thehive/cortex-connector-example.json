@@ -1,0 +1,6 @@
+{
+  "name": "VirusTotal",
+  "url": "http://cortex:9001",
+  "apiKey": "9738e02f39e90c7c80d06228d6bcb50bdfc9577aa83004eee0b0319326dfbfce",
+  "analyzers": ["VirusTotal_Analyzer"]
+}
